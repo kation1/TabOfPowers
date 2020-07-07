@@ -1,0 +1,13 @@
+C:\devbuild\TabOfPowers\bin\Debug\netcoreapp3.1\TabOfPowers.exe
+C:\devbuild\TabOfPowers\bin\Debug\netcoreapp3.1\TabOfPowers.deps.json
+C:\devbuild\TabOfPowers\bin\Debug\netcoreapp3.1\TabOfPowers.runtimeconfig.json
+C:\devbuild\TabOfPowers\bin\Debug\netcoreapp3.1\TabOfPowers.runtimeconfig.dev.json
+C:\devbuild\TabOfPowers\bin\Debug\netcoreapp3.1\TabOfPowers.dll
+C:\devbuild\TabOfPowers\bin\Debug\netcoreapp3.1\TabOfPowers.pdb
+C:\devbuild\TabOfPowers\obj\Debug\netcoreapp3.1\TabOfPowers.csprojAssemblyReference.cache
+C:\devbuild\TabOfPowers\obj\Debug\netcoreapp3.1\TabOfPowers.AssemblyInfoInputs.cache
+C:\devbuild\TabOfPowers\obj\Debug\netcoreapp3.1\TabOfPowers.AssemblyInfo.cs
+C:\devbuild\TabOfPowers\obj\Debug\netcoreapp3.1\TabOfPowers.csproj.CoreCompileInputs.cache
+C:\devbuild\TabOfPowers\obj\Debug\netcoreapp3.1\TabOfPowers.dll
+C:\devbuild\TabOfPowers\obj\Debug\netcoreapp3.1\TabOfPowers.pdb
+C:\devbuild\TabOfPowers\obj\Debug\netcoreapp3.1\TabOfPowers.genruntimeconfig.cache

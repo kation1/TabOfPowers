@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TabOfPowers/1.0.0": {
+        "runtime": {
+          "TabOfPowers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TabOfPowers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
