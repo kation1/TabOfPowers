@@ -5,13 +5,9 @@ namespace TabOfPowers
 {
     class Program
     {
-        public static void CreateTable()
+        public static void CreateTable(int length)
         {
-            Console.WriteLine("Enter an integer");
-            string number = Console.ReadLine();
             //Display table of squares & cubes until integer
-
-            int length = int.Parse(number);
             Console.WriteLine("Number\t\tSquared\t\tCubed");
             Console.WriteLine("=======\t\t=======\t\t=======");
 
@@ -29,9 +25,24 @@ namespace TabOfPowers
             string userCont = Console.ReadLine();
             while (userCont == "Y")
             {
-                CreateTable();
+                Console.WriteLine("Enter an integer:");
+                string number = Console.ReadLine();
+                int length = int.Parse(number);
+                if (length > 1625)
+                {
+                    Console.WriteLine("This number is too large");
+                }
+                else if (length < 1)
+                {
+                    Console.WriteLine("Enter a Positive number.");
+                }
+                else
+                {
+                    CreateTable(length);
+                }
+
                 //Prompts user to continue
-                Console.WriteLine("Do you want to go again? (Y/N)");
+                Console.WriteLine("Do you want to try again? (Y/N)");
                 userCont = Console.ReadLine();
             }
             Console.WriteLine("Thank you for learning!");
