@@ -28,7 +28,7 @@ namespace TabOfPowers
                 Console.WriteLine("Enter an integer:");
                 string number = Console.ReadLine();
                 int length = int.Parse(number);
-                if (length > 1625)
+                if (length > 1290)
                 {
                     Console.WriteLine("This number is too large");
                 }
